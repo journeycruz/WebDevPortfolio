@@ -419,3 +419,59 @@ a:active {
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
+
+
+
+.parallax-developers {
+  max-height: 780px;
+  min-height: 780px;
+}
+.card {
+  background-color: rgba(0, 0, 0, .5);
+  color: white;
+  border-radius: .5rem;
+  padding: 1rem 0!important;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .1);
+  transition: transform .4s ease;
+  margin: 0 1rem;
+}
+.card:hover {
+  transform: scale(.95);
+}
+.card img {
+  border-radius: 50%;
+  max-width: 10rem;
+  max-height: 10rem;
+  margin: 0 auto;
+}
+.card-body {
+  margin-bottom: .3rem!important;
+  min-height: 14rem!important;
+}
+.card h4 {
+  font-weight: 700;
+}
+.card h5 {
+  color: #6FABCF;
+}
+.card p {
+  border-top: .1rem solid rgba(255, 255, 255, .2);
+  border-bottom: .1rem solid rgba(255, 255, 255, .2);
+  padding: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.card svg.svg-inline--fa {
+  color: #6FABCF!important;
+  font-size: 1.5rem;
+  width: 2rem;
+}
+.card svg.svg-inline--fa:hover {
+  color: white!important;
+}
+.owl-carousel, .owl-dots {
+  margin-top: 1.5rem!important;
+}
+.owl-dot.active span,
+.owl-dot:hover span {
+  background: #6FABCF!important;
+}
