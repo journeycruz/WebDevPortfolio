@@ -20,7 +20,7 @@ body {
 }
 
 .profile-pic {
-  box-shadow: 8px black;
+  box-shadow: 0px 4px 6px 2px lightgrey;
   border-radius: 50%
 }
 
