@@ -72,12 +72,7 @@ a, .btn, button {
   transition: all 0.5s ease 0s;
 }
 
-.offset:before {
-  height: 4.4rem;
-  margin-top: -4.4rem;
-  content: "";
-  display: block;
-}
+
 
 .bg-resume {
   background-color: #F2F2F0;
