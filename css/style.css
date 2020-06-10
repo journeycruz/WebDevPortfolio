@@ -21,6 +21,10 @@ p {
   color: black;
 }
 
+#text-center {
+  text-align: center;
+}
+
 #contact-underline {
   margin: 1rem auto 1.5rem;
   width: 5rem;
