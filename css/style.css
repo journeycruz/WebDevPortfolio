@@ -598,6 +598,9 @@ a:active {
 
 
 /*============= REVIEWS =============*/
+.right {
+  float: right;
+}
 
 .parallax-reviews {
   margin: 0;
