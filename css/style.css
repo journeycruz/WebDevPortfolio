@@ -485,7 +485,7 @@ a:active {
 }
 .parallax-container {
   -webkit-align-items: center;
-  align-items: flex-start;
+  align-items: center;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -522,7 +522,7 @@ a:active {
   transform: translate3d(0, 0, 0);
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  width: 100%
+  width: 50%
 }
 
 
