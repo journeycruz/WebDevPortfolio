@@ -513,11 +513,10 @@ a:active {
   z-index: -100
 }
 .parallax__container .parallax {
-  background-position: center;
+  background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: left;
-  background-position-y: center;
+  position: fixed;
   top: 0;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
