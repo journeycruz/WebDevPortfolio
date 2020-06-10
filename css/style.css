@@ -596,11 +596,6 @@ a:active {
   margin-right: 0px!important;
 }
 
-.half-col-container-first,
-.half-col-container {
-  float: none;
-  margin: 0 auto;
-}
 
 /*============= REVIEWS =============*/
 
@@ -612,10 +607,7 @@ a:active {
   margin: 0!important;
   padding: 0!important;
 }
-.half-col-container-first {
-  max-width: 550px;
-  float: right;
-}
+
 .review-text {
   background-color: rgba(255, 255, 255, .85);
   border-radius: .5rem;
@@ -624,8 +616,5 @@ a:active {
 }
 .bg-reviews {
   background-color: rgba(255, 255, 255, .92);
-}
-.half-col-container {
-  max-width: 576px;
 }
 
