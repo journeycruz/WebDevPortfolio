@@ -107,9 +107,10 @@ a, .btn, button {
 .btn-purple {
   border-color: #6e5494;
   background-color: #6e5494;
+  color: white;
 }
 .btn-red {
-  border-color: #A60A17; /*-- ba3c4b EF8588 --*/
+  border-color: #A60A17;
   background-color: #A60A17;
   color: white;
 }
