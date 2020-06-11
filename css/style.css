@@ -600,22 +600,22 @@ a:active {
 
 /*============= REVIEWS =============*/
 
-.parallax-reviews {
+.parallax-descriptions {
   margin: 0;
   padding: 0!important;
 }
-.parallax-reviews .container-fluid {
+.parallax-descriptions .container-fluid {
   margin: 0!important;
   padding: 0!important;
 }
 
-.review-text {
+.description-text {
   background-color: rgba(255, 255, 255, .95);
   border-radius: .5rem;
   margin-bottom: 1.5rem;
   padding: 1rem;
 }
-.bg-reviews {
+.bg-descriptions {
   background-color: rgba(255, 255, 255, 1);
 }
 
