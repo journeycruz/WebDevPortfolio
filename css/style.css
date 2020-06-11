@@ -20,7 +20,9 @@ p {
 .text-black {
   color: black;
 }
-
+#footer-name {
+  color: white;
+}
 .text-center {
   text-align: center;
 }
