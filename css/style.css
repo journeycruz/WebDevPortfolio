@@ -106,9 +106,9 @@ a, .btn, button {
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 .btn-purple {
-  border-color: #6e5494;
-  background-color: #6e5494;
-  color: white;
+  border-color: white;
+  background-color: white;
+  color: black;
 }
 .btn-red {
   border-color: #A60A17;
