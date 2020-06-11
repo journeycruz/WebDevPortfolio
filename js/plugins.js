@@ -124,7 +124,7 @@ $(document).ready(function () {
     });
 });
 
-/*========== OUR DEVELOPERS CAROUSEL ==========*/
+/*========== OUR PROJECTS ==========*/
 $(document).ready(function () { //when document(DOM) loads completely
     $('#team-slider').owlCarousel({ //owlCarousel settings
         nav: false,
@@ -148,29 +148,3 @@ $(document).ready(function () { //when document(DOM) loads completely
         }
     });
 });
-
-/*========== KEEP OUR DEVELOPERS CARDS THE SAME HEIGHT ==========*/
-$(document).ready(function () {
-
-    // Select and loop the container element of the elements you want to equalise
-    $('.owl-theme').each(function () {
- 
-        // Cache the highest
-        var highestBox = 0;
- 
-        // Select and loop the elements you want to equalise
-        $('.card', this).each(function () {
- 
-            // If this box is higher than the cached highest then store it
-            if ($(this).height() > highestBox) {
-                highestBox = $(this).height();
-            }
- 
-        });
- 
-        // Set the height of all those children to whichever was highest
-        $('.card', this).height(highestBox);
- 
-    });
- });
- 
