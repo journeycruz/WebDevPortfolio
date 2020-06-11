@@ -105,8 +105,8 @@ a, .btn, button {
   box-shadow: 0 0 .8rem rgba(0, 0, 0, .1);
 }
 .btn-red {
-  border-color: #8C8784; /*-- ba3c4b EF8588 --*/
-  background-color: #8C8784;
+  border-color: #A60A17; /*-- ba3c4b EF8588 --*/
+  background-color: #A60A17;
   color: white;
 }
 .btn-red:hover,
