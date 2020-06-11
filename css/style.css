@@ -81,7 +81,8 @@ a, .btn, button {
 
 
 .bg-resume {
-  background-image: "img/AdobeStock_308697506_Preview.png";
+  background-image: url("img/AdobeStock_308697506_Preview.png");
+  background-color: #cccccc;
 }
 .text-g {
   color: #0D0D0D;
