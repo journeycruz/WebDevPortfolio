@@ -111,6 +111,7 @@ a, .btn, button {
 .btn-purple {
   border-color: white;
   background-color: white;
+  border-radius: 6px;
   color: black;
 }
 .btn-red {
