@@ -18,7 +18,7 @@ p {
 	font-family: 'Open Sans', sans-serif;
 }
 .projectPic {
-  padding-top: 25px;
+  margin: 0px;
 }
 .element-item {
   width: 60%
