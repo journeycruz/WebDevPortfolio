@@ -20,6 +20,9 @@ p {
 .projectPic {
   padding-top: 25px;
 }
+.element-item {
+  width: 100%
+}
 .text-black {
   color: black;
 }
