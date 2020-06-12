@@ -113,6 +113,7 @@ a, .btn, button {
 .btn-red {
   border-color: #A60A17;
   background-color: #A60A17;
+  border-radius: 6px;
   color: white;
 }
 .btn-red:hover,
