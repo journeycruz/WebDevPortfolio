@@ -119,7 +119,7 @@ $(document).ready(function () {
     });
 });
 
-/*========== OUR PROJECTS ==========*/
+/*========== PROJECTS ==========*/
 $(document).ready(function () {
     $('#team-slider').owlCarousel({ 
         nav: false,
