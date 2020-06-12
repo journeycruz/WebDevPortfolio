@@ -16,7 +16,7 @@ This portfolio is intended to showcase my personal web development acheivments. 
 
 Thank you to my Career Material Advisor Keyna Ledford for helpful tips on how to rewrite my brand statement. 
 
-* Technology Used:
+Technology Used:
 * HTML5
 * Bootstrap 4 CSS
 * JavaScript
