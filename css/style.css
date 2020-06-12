@@ -17,6 +17,9 @@ p {
 	font-weight: 300;
 	font-family: 'Open Sans', sans-serif;
 }
+.projectPic {
+  float: center;
+}
 .text-black {
   color: black;
 }
