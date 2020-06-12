@@ -23,6 +23,9 @@ p {
 .element-item {
   width: 75%
 }
+.img-popup {
+  padding-top: 25px;
+}
 .text-black {
   color: black;
 }
