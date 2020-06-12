@@ -18,14 +18,13 @@ p {
 	font-family: 'Open Sans', sans-serif;
 }
 .projectPic {
-  float: center;
+  text-align: center;
+  padding-top: 25px;
 }
 .text-black {
   color: black;
 }
-#footer-name {
-  color: white;
-}
+
 .text-center {
   text-align: center;
 }
@@ -252,6 +251,9 @@ a.nav-link.filter {
 /*Footer*/
 footer {
   background-color: RGBA(191,191,189,.9);
+}
+#footer-name {
+  color: white;
 }
 footer .cursive {
   margin-bottom: 1rem;
