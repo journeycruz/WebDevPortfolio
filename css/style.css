@@ -85,7 +85,77 @@ a, .btn, button {
   transition: all 0.5s ease 0s;
 }
 
+.tileImg {
+  margin: 0px;
+  padding: 0px;
+}
 
+/*-- Circle Progress --*/
+.circle {
+  margin: 1rem auto;
+}
+.circle canvas {
+  background-color: #00b4ba;
+  border-radius: 50%;
+  box-shadow: 0 0 .8rem rgba(0, 0, 0, .15);
+}
+.circle strong {
+  font-size: 2.2rem;
+  color: white;
+  margin: auto;
+  position: absolute;
+  top: 2rem; left: 0; bottom: 0; right: 0;
+  padding-left: .5rem;
+  z-index: 1;
+}
+.circle strong i {
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+
+/*-- Project Gallery Menu --*/
+.gallery {
+  width: 100%!important;
+}
+.navbar.projects {
+  min-height: 1rem;
+  letter-spacing: .05rem;
+}
+.filter ul li {
+  padding: .5rem;
+}
+.filter ul li.filter-active a.nav-link.filter,
+a.filter.is-checked,
+li a.nav-link.filter.active,
+li a.nav-link.filter:hover {
+  background-color: #00b4ba!important;
+  color: #fff!important;
+  cursor: pointer!important;
+}
+a.nav-link.filter {
+  padding-left: 1rem;
+}
+
+/*-- Project Gallery Layout --*/
+.element-item {
+  position: relative;
+  float: left;
+  width: 33%;
+  min-height: 14rem;
+  padding: .6rem;
+}
+.element-item img {
+  width: 100%;
+  margin-bottom: 1.5rem!important;
+  height: auto;
+  display:block;
+  transition: all 0.3s ease 0s;
+  box-shadow: 0 0 .8rem rgba(0, 0, 0, .2);
+}
+.element-item a img:hover {
+  opacity: .7!important;
+  transition: all 0.3s ease 0s;
+}
 
 .bg-resume {
   background-color: #F2F2F0;
